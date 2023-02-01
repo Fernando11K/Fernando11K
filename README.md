@@ -17,7 +17,7 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg">
-  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/108682559?s=400&u=b8fe63856ea8bafa70ac8200e6387ab85e335bff&v=4">
+  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://img001.prntscr.com/file/img001/s8j70gVpS6OdCpDD8SD_4w.png">
 </div>
   
   ##
@@ -27,5 +27,4 @@
   <a href="https://www.linkedin.com/in/fernando11000" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
 
