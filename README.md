@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou trabalhando no Projeto Integrador para conclusão do Curso de Programador Web do SENAC RJ
 - 🌱 Estudando PHP e Laravel
-- 📫 Linkedin: https://www.linkedin.com/in/fernando11000/
+
 
 
 <div style="display: inline_block"><br>
