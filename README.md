@@ -1,7 +1,7 @@
 ### Meu nome é 🌌 Fernando Mendonça🌌
 
-- 🔭 No momento estou trabalhando no Projeto Integrador para conclusão do Curso de Programador Web do SENAC RJ
-- 🌱 Estudando PHP e Laravel
+- 🔭 Estou construindo meu portfólio 
+- 🏗️ Perfil em comnstrução
 
 
 
