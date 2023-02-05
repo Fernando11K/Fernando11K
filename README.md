@@ -1,7 +1,7 @@
 ### Meu nome é 🌌 Fernando Mendonça🌌
 
 - 🔭 Estou construindo meu portfólio 
-- 🏗️ Perfil em comnstrução
+- 🏗️ Perfil em construção
 
 
 
