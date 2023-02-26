@@ -1,4 +1,4 @@
-### Meu nome é 🌌 Fernando Mendonça🌌
+### Meu nome é 🌌 Fernando Mendonça 🌌
 
 - 🔭 Estou construindo meu portfólio 
 - 🏗️ Perfil em construção
