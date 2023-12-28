@@ -2,9 +2,10 @@
 
 - 🔭 Estou construindo meu portfólio 
 - 🏗️ Perfil em construção
+- 🆙 Meu nível de domínio varia a depender da ferramenta, tenho maior conhecimento em Java (Spring boot e suas depedências), Javascript (além do básico de web como HTML e CSS), Vue, Quasar Framework e Oracle SQL Developer.
+- 🔄 A estudar C# e suas ferramentas, bem como Firebase.
 
-
-
+Maior projeto no AR ainda em desenvolvimento e acessível para o público:   <a href="barbearia-e-mercearia.web.app" >Sistema Barbearia</a> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
