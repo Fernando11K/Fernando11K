@@ -13,7 +13,7 @@ Meu maior projeto acessível publicamente em desenvolvimento:   <a href="https:/
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">  
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg">  
-  <img align="center" alt="Oracle Sql Develloper" height="30" width="40" style="border-radius:50px;" src="https://cdn.imgbin.com/15/18/22/imgbin-oracle-sql-developer-oracle-database-microsoft-sql-server-oracle-corporation-developer-LgifgeA6bvJcMeumFLJCHNsFm.jpg">
+  <img align="center" alt="Oracle Sql Develloper" height="30" width="40" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/863/183/png-transparent-cylindrical-gray-and-green-container-illustration-oracle-sql-developer-oracle-database-pl-sql-oracle-application-express-sql-server-icon-miscellaneous-material-computer-icons.png">
   <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://img001.prntscr.com/file/img001/s8j70gVpS6OdCpDD8SD_4w.png">
 </div>
   
