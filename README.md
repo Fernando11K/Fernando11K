@@ -4,7 +4,7 @@
 - 🏗️ Perfil em construção
 - 🆙 Meu nível de domínio varia a depender da ferramenta, tenho maior conhecimento em Java (Spring boot e suas depedências), Javascript (além do básico de web como HTML e CSS), Vue, Quasar Framework e Oracle SQL Developer.
 
-Meu maior projeto, em desenvolvimento, acessível publicamente:   <a href="https://www.barbearia-90acc.web.app" target="_blank">Sistema Barbearia</a>
+Meu maior projeto, em desenvolvimento, acessível publicamente:   <a href="https://barbearia-90acc.web.app" target="_blank">Sistema Barbearia</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">  
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
