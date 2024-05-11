@@ -2,7 +2,6 @@
 
 - 🔭 Estou construindo meu portfólio 
 - 🏗️ Perfil em construção
-- 🆙 Meu nível de domínio varia a depender da ferramenta, tenho maior conhecimento em Java (Spring boot e suas depedências), Javascript (além do básico de web como HTML e CSS), Vue, Quasar Framework e Oracle SQL Developer.
 
 Meu maior projeto, em desenvolvimento, acessível publicamente:   <a href="https://barbearia-90acc.web.app" target="_blank">Sistema Barbearia</a>
 <div style="display: inline_block"><br>
