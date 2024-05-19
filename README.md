@@ -1,6 +1,6 @@
 ### Sou Fernando Mendonça 
 
-- 🔒 Não tenho tempo para construir meu portfólio 
+- 🔒 Não tenho tempo para meu portfólio 
 
 Meu maior projeto, em desenvolvimento, acessível publicamente:   <a href="https://barbearia-90acc.web.app" target="_blank">Sistema Barbearia</a>
 <div style="display: inline_block"><br>
